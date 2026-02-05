@@ -2,12 +2,12 @@
   // ✅ 配置：仅需填写主域名（不带 www）
   const siteCodes = {
     'buchmistrz.pl': 'KqmtdhxdOsN9a7i7',
-    'buchvape.pl': 'L4SJdWJWSfLvV6Ce',
-    'buyvapeshop.xyz': 'L4SLPBUXrxDWAhye',
-    'jednorazowki-online.pl': 'L4SKQsqvHQROQx7a',
-    'swiat-jednorazowek.pl': 'L4SKXxs7UYdVz867',
-    'dymly.pl': 'L4SL3ETePxb3X0Og',
-    'smak-chmury.pl': 'L4SL9LoKvDvwuxuy'
+    'buchvape.pl': 'KqmtdhxdOsN9a7i7',
+    'buyvapeshop.xyz': 'KqmtdhxdOsN9a7i7',
+    'jednorazowki-online.pl': 'KqmtdhxdOsN9a7i7',
+    'swiat-jednorazowek.pl': 'KqmtdhxdOsN9a7i7',
+    'dymly.pl': 'KqmtdhxdOsN9a7i7',
+    'smak-chmury.pl': 'KqmtdhxdOsN9a7i7'
   };
   
   // ✅ 检测是否为中文用户（包括 zh, zh-CN, zh-TW, zh-HK 等）
