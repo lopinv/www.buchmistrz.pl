@@ -7,13 +7,21 @@
 
 ### 🇵🇱 Największy Sklep z Jednorazowych E-papierosów w Polsce
 
+## 🗺️ Obszar Sprzedaży
+
+| 🇵🇱 Polska | 🇨🇿 Czechy | 🇸🇰 Słowacja | 🇭🇺 Węgry |
+|-----------|-----------|-------------|-----------|
+| ✅ Wysyłka 24h | ✅ Dostawa 2-3dni | ✅ Kurier lokalny | ✅ Szybka dostawa |
+| 💵 Płatność przy odbiorze | 💵 Bankowy przelew | 💵 SMS platba | 💵 Bankkártya |
+| 🚚 Darmowa od 150zł | 🚚 Od 150 CZK | 🚚 Od 150 PLN | 🚚 Od 150 HUF |
+
 <table align="center" width="100%">
 <tr>
 <td align="center"><b>📦</b><br>13<br>Produktów</td>
 <td align="center"><b>⭐</b><br>6<br>Marek</td>
 <td align="center"><b>📝</b><br>60<br>Artykułów</td>
 <td align="center"><b>💰</b><br>55zł<br>Od ceny</td>
-<td align="center"><b>🚚</b><br>150zł<br>Darmowa dostawa</td>
+<td align="center"><b>🌍</b><br>4<br>Kraje</td>
 </tr>
 </table>
 
@@ -24,7 +32,7 @@
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><b>🚚 Dostawa</b><br>Darmowa od 150zł</td>
+<td width="25%" align="center"><b>🚚 Dostawa</b><br>Szybka wysyłka 24h</td>
 <td width="25%" align="center"><b>💵 Płatność</b><br>Przy odbiorze (COD)</td>
 <td width="25%" align="center"><b>🔄 Zwrot</b><br>14 dni bez pytań</td>
 <td width="25%" align="center"><b>✅ Jakość</b><br>100% oryginały</td>
@@ -509,13 +517,13 @@
 <td width="25%" align="center"><b>📧 Email</b><br>kontakt@buchmistrz.pl</td>
 <td width="25%" align="center"><b>📱 Telefon</b><br>+48 729 250 699</td>
 <td width="25%" align="center"><b>🕐 Godziny</b><br>Pon-Pt 9:00-17:00</td>
-<td width="25%" align="center"><b>📍 Lokalizacja</b><br>Polska 🇵🇱</td>
+<td width="25%" align="center"><b>📍 Regiony</b><br>PL 🇵🇱 CZ 🇨🇿 SK 🇸🇰 HU 🇭🇺</td>
 </tr>
 </table>
 
 ---
 
 <sub>🌬️ BuchMistrz © 2019-2026 | Autoryzowany dystrybutor e-papierosów jednorazowych</sub>
-<sub>📊 Dane zebrane: 14 sierpnia 2026 | <a href="https://buchmistrz.pl">buchmistrz.pl</a></sub>
+<sub>🌍 Obsługujemy: Polska, Czechy, Słowacja, Węgry | 📊 Dane: 14 sierpnia 2026</sub>
 
 </div>
