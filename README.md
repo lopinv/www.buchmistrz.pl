@@ -1,31 +1,192 @@
-# 🚬[BuchMistrz](https://www.buchmistrz.pl)
+# BuchMistrz Product Catalog
 
-Szukasz stylowego [e-papierosa](https://www.buchmistrz.pl/shop)? Buch Mistrz to dobry wybór – nowoczesne i gotowe jednorazówki z fajnymi smakami! ✨ Kup szybko online lub sprawdź hurtową ofertę. Dobre jakość i wygoda na co dzień. Zaufaj liderowi – Buch Mistrz! 🚬🔥
+> Scraped from [buchmistrz.pl](https://buchmistrz.pl) on 2026-08-14
+> Total products: **13**
 
-### Informacje o produkcie
+## 📦 Products by Brand
 
-| Nr | Marki                                | Liczba ciągnięć (puffs) | Nikotyna (%) | E-płyn (ml) | Pojemność baterii (mAh) | Ładowanie   | Liczba smaków | Cena (zł) |
-|----|--------------------------------------|--------------------------|-------------|------------|--------------------------|-------------|----------------|-----------|
-| 1  | XCOR Hawaii 12000 PUFFS              | 12000                    | 5%          | 18         | 600                      | Type-C      | 13             | 39.90     |
-| 2  | FOMUD RANDM TORNADO 15000 PUFFS      | 15000                    | 5%          | 25         | 850                      | Type-C      | 20             | 50.00     |
-| 3  | THE CRYSTAL BLING SHISHA 25000 PUFFS DWUSMAKOWE | 25000                    | 5%          | 20         | 850                      | Type-C      | 10             | 60.00     |
-| 4  | FUMOT TORNADO 20000 PUFFS            | 20000                    | 5%          | 20         | 850                      | Type-C      | 39             | 60.00     |
-| 5  | XCOR DUBAI NIGHT 28000 PUFFS         | 28000                    | 5%          | 25         | 800                      | Type-C      | 21             | 60.00     |
-| 6  | FIZZY TWINS DWUSMAKOWE 50000 PUFFS   | 50000                    | 5%          | 50         | 850                      | Type-C      | 15             | 80.00     |
-| 7  | THE CRYSTAL BLING ULTRA 18000 PUFFS 5G⁺ HRTP | 18000                    | 5%          | 2×12       | 850                      | Type-C      | 10             | 45.99     |
-| 8  | THE CRYSTAL BLING 6000+ PUFFS        | 6000                     | 5%       | 10         | 1600                     | Type-C      | 13             | 19.99     |
-| 9  | XCOR Hawaii PRO 23000 PUFFS          | 23000                    | 5%          | 21         | 600                      | Type-C      | 10             | 55.00     |
-| 10 | HIFANCY DREAM 45000 PUFFS            | 45000                    | 5%          | 39         | 650                      | Type-C      | 10             | 69.90     |
+### AiRMEZ
 
-### Popularne produkty
+#### [AiRMEZ FOX 4IN1 120000 PUFFS](https://buchmistrz.pl/product/airmez-fox-4in1-120000-puffs/)
 
-- [FIZZY TWINS DWUSMAKOWE 50000 PUFFS](https://www.buchmistrz.pl/produkt/fizzy-twins-dwusmakowe-50000-puffs): Szukasz jednorazowego e-papierosa o niezrównanej pojemności i innowacyjnych kombinacjach smakowych? FIZZY TWINS DWUSMAKOWE 50000 PUFFS to idealny wybór! Ten nowoczesny pre-pod oferuje aż 50 000 zaciągnięć oraz 15 unikalnych dwusmakowych kombinacji.
-- [THE CRYSTAL BLING 6000+ PUFFS](https://www.buchmistrz.pl/produkt/the-crystal-bling-6000-puffs): Przedstawiamy The Crystal Bling Disposable Vape: Podnieś Poziom Swojego Vapingu!Odkryj najwyższą wygodę i smak z The Crystal Bling Disposable Vape. Zaprojektowany dla wymagających vaperów, którzy cenią sobie zarówno wydajność, jak i różnorodność, The Crystal Bling oferuje doskonałe wrażenia w eleganckim, przenośnym opakowaniu.
-- [THE CRYSTAL BLING ULTRA 18000 PUFFS 5G⁺ HRTP](https://www.buchmistrz.pl/produkt/the-crystal-bling-ultra-18000-puffs-5g%e2%81%ba-hrtp): Przygotuj się na niezrównane doznania z nową generacją jednorazowych e-papierosów The Crystal Bling Ultra 18000 PUFFS. Zaprojektowany z myślą o maksymalnej satysfakcji i wydajności, ten innowacyjny produkt łączy w sobie zaawansowaną technologię z bogactwem smaków, zapewniając do 18000 PUFFS zaciągnięć!
-- [THE CRYSTAL BLING SHISHA 25000 PUFFS DWUSMAKOWE](https://www.buchmistrz.pl/produkt/the-crystal-bling-shisha-25000-puffs-dwusmakowe): Szukasz najlepszego jednorazowego e-papierosa o dużej pojemności i podwójnym smaku? THE CRYSTAL BLING SHISHA 25000 PUFFS DWUSMAKOWE to idealny wybór! Ten innowacyjny pre-pod oferuje aż 25 000 zaciągnięć i dwie kombinacje smakowe w jednym urządzeniu.
-- [FUMOT TORNADO 20000 PUFFS](https://www.buchmistrz.pl/produkt/fumot-tornado-20000-puffs): Szukasz jednorazowego e-papierosa o ogromnej pojemności i bogactwie smaków? FUMOT TORNADO 20000 PUFFS to idealny wybór! Ten nowoczesny pre-pod oferuje aż 20 000 zaciągnięć i niezwykłą paletę 39 unikalnych smaków.
-- [FOMUD RANDM TORNADO 15000 PUFFS](https://www.buchmistrz.pl/produkt/fomud-randm-tornado-15000-puffs): Szukasz jednorazowego e-papierosa o wyjątkowej wydajności i intensywnym smaku? FOMUD RANDM TORNADO 15000 PUFFS to idealny wybór! Ten pre-pod zapewnia aż 15 000 zaciągnięć, gwarantując długotrwałe doznania waporyzacyjne bez konieczności uzupełniania.
-- [XCOR DUBAI NIGHT 28000 PUFFS](https://www.buchmistrz.pl/produkt/xcor-dubai-night-28000-puffs): Szukasz jednorazowego e-papierosa o rekordowej pojemności i bogactwie smaków? XCOR DUBAI NIGHT 28000 PUFFS to idealny wybór! Ten nowoczesny pre-pod oferuje aż 28 000 zaciągnięć i niesamowitą paletę 21 unikalnych smaków.
-- [XCOR Hawaii 12000 PUFFS](https://www.buchmistrz.pl/produkt/xcor-hawaii-12000-puffs): XCOR Hawaii 12000 Puffs to wysokowydajny, jednorazowy e-papieros oferujący do 12 000 zaciągnięć. Idealny dla osób ceniących sobie wygodę, jakość i bogactwo smaków. Dostępny w 14 unikalnych aromatach, od owocowych po słodkie klasyki.
-- [XCOR Hawaii PRO 23000 PUFFS](https://www.buchmistrz.pl/produkt/xcor-hawaii-pro-23000-puffs): Odkryj nową erę dobrostanu i rozkoszy smakowych dzięki Hawaii Pro, nowoczesnemu zestawowi zaparów, który łączy nowoczesne technologie z autentycznym smakiem tropikalnych owoców. Idealny dla fanów naturalnych aromatów i osób poszukujących niezwykłego doświadczenia.
-- [HIFANCY DREAM 45000 PUFFS](https://www.buchmistrz.pl/produkt/hifancy-dream-45000-puffs): HIFANCY DREAM 45000 to wyjątkowy jednorazowy e-papieros. Dzięki rekordowej żywotności do 45 000 zaciągnięć i 10 starannie dobranym smakom, oferuje maksymalną wygodę oraz wyjątkowe doznania smakowe dla szerokiego grona użytkowników. Innowacyjne technologie, takie jak podwójna grzałka mesh i regulowany przepływ powietrza, na nowo definiują standardy branży w zakresie smaku i jakości.
+![AiRMEZ FOX 4IN1 120000 PUFFS](https://buchmistrz.pl/wp-content/uploads/9.jpg)
+
+- **Price:** 100,00 zł
+- **Old Price:** ~~120,00 zł~~
+- **Puffs:** 120000 Puffs
+- **SKU:** AiRMEZ-FOX-4IN1-120000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/airmez-fox-4in1-120000-puffs/)
+
+#### [AiRMEZ LUX 60000 PUFFS](https://buchmistrz.pl/product/airmez-lux-60000-puffs/)
+
+![AiRMEZ LUX 60000 PUFFS](https://buchmistrz.pl/wp-content/uploads/MIXED-BERRIES.png)
+
+- **Price:** 90,00 zł
+- **Old Price:** ~~110,00 zł~~
+- **Puffs:** 000 puffs
+- **SKU:** AiRMEZ-LUX-60000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/airmez-lux-60000-puffs/)
+
+#### [AiRMEZ MATRIX PRO 30000 PUFFS](https://buchmistrz.pl/product/airmez-matrix-pro-30000-puffs/)
+
+![AiRMEZ MATRIX PRO 30000 PUFFS](https://buchmistrz.pl/wp-content/uploads/85a0e357f0bcf5bd736574a36eea826d.webp)
+
+- **Price:** 70,00 zł
+- **Old Price:** ~~80,00 zł~~
+- **Puffs:** 40000 Puffs
+- **SKU:** AiRMEZ-MATRIX-PRO-30000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/airmez-matrix-pro-30000-puffs/)
+
+#### [AiRMEZ TORNADO 25000 PUFFS](https://buchmistrz.pl/product/airmez-tornado-25000-puffs/)
+
+![AiRMEZ TORNADO 25000 PUFFS](https://buchmistrz.pl/wp-content/uploads/blueberry-on-ice-.png)
+
+- **Price:** 60,00 zł
+- **Old Price:** ~~65,00 zł~~
+- **Puffs:** 25000 puffs
+- **SKU:** AiRMEZ-TORNADO-25000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/airmez-tornado-25000-puffs/)
+
+### HIFANCY
+
+#### [HIFANCY DREAM 45000 PUFFS](https://buchmistrz.pl/product/hifancy-dream-45000-puffs/)
+
+![HIFANCY DREAM 45000 PUFFS](https://buchmistrz.pl/wp-content/uploads/5d9d6b6e99481cb879b8d2a95948a489.webp)
+
+- **Price:** 70,00 zł
+- **Old Price:** ~~80,00 zł~~
+- **Puffs:** 45000 puffs
+- **SKU:** HIFANCY-DREAM-45000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/hifancy-dream-45000-puffs/)
+
+#### [HIFANCY SPACE 50000 PUFFS](https://buchmistrz.pl/product/hifancy-space-50000-puffs/)
+
+![HIFANCY SPACE 50000 PUFFS](https://buchmistrz.pl/wp-content/uploads/5aaefa0149d9574264498fd7c5fdf37b.jpg)
+
+- **Price:** 80,00 zł
+- **Old Price:** ~~85,00 zł~~
+- **Puffs:** 000 puffs
+- **SKU:** HIFANCY-SPACE-50000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/hifancy-space-50000-puffs/)
+
+#### [HIFANCY SUPER 70000 PUFFS](https://buchmistrz.pl/product/hifancy-super-70000-puffs/)
+
+![HIFANCY SUPER 70000 PUFFS](https://buchmistrz.pl/wp-content/uploads/hifancy-super-70k-cover.jpg)
+
+- **Price:** 100,00 zł
+- **Old Price:** ~~110,00 zł~~
+- **Puffs:** 000 puffs
+- **SKU:** HIFANCY-SUPER-70000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/hifancy-super-70000-puffs/)
+
+### MASKKING
+
+#### [MASKKING ICEX 40000 PUFFS](https://buchmistrz.pl/product/maskking-icex-40000-puffs/)
+
+![MASKKING ICEX 40000 PUFFS](https://buchmistrz.pl/wp-content/uploads/cover.jpg)
+
+- **Price:** 80,00 zł
+- **Old Price:** ~~90,00 zł~~
+- **Puffs:** 40000 Puffs
+- **SKU:** MASKKING-ICEX-40000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/maskking-icex-40000-puffs/)
+
+### MERRYMI
+
+#### [MERRYMI BLADE 30000 PUFFS](https://buchmistrz.pl/product/merrymi-blade-30000-puffs/)
+
+![MERRYMI BLADE 30000 PUFFS](https://buchmistrz.pl/wp-content/uploads/merrymi-blade-30000-puffs-aperol-banner-1.jpg)
+
+- **Price:** 80,00 zł
+- **Old Price:** ~~95,00 zł~~
+- **Puffs:** 000 puffs
+- **SKU:** MERRYMI-BLADE-30000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/merrymi-blade-30000-puffs/)
+
+### STAG BAR
+
+#### [STAG BAR 6IN1 180000 PUFFS](https://buchmistrz.pl/product/stag-bar-6in1-180000-puffs/)
+
+![STAG BAR 6IN1 180000 PUFFS](https://buchmistrz.pl/wp-content/uploads/stag-bar-6in1-180000-180k-puffs.jpg)
+
+- **Price:** 150,00 zł
+- **Old Price:** ~~180,00 zł~~
+- **Puffs:** 000 puffs
+- **SKU:** STAG-BAR-6IN1-180000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/stag-bar-6in1-180000-puffs/)
+
+### XCOR
+
+#### [XCOR Hawaii PRO 23000 PUFFS](https://buchmistrz.pl/product/xcor-hawaii-pro-23000-puffs/)
+
+![XCOR Hawaii PRO 23000 PUFFS](https://buchmistrz.pl/wp-content/uploads/85b21c9f1e31bb658d6c4ec5a830a8b3.webp)
+
+- **Price:** 55,00 zł
+- **Old Price:** ~~60,00 zł~~
+- **Puffs:** 000 puffs
+- **SKU:** XCOR-Hawaii-PRO-23000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/xcor-hawaii-pro-23000-puffs/)
+
+#### [XCOR Max 50000 PUFFS](https://buchmistrz.pl/product/xcor-max-50000-puffs/)
+
+![XCOR Max 50000 PUFFS](https://buchmistrz.pl/wp-content/uploads/Kiwi-Passion-Fruit-Guava展示盒.png)
+
+- **Price:** 90,00 zł
+- **Old Price:** ~~100,00 zł~~
+- **Puffs:** 50000 Puffs
+- **SKU:** XCOR-Max-50000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/xcor-max-50000-puffs/)
+
+#### [XCOR TYRANT 23000 PUFFS](https://buchmistrz.pl/product/xcor-tyrant-23000-puffs/)
+
+![XCOR TYRANT 23000 PUFFS](https://buchmistrz.pl/wp-content/uploads/e39b239dcb606e82481b0129ba751abe.jpg)
+
+- **Price:** 55,00 zł
+- **Old Price:** ~~60,00 zł~~
+- **Puffs:** 23000 puffs
+- **SKU:** XCOR-TYRANT-23000-PUFFS
+- **Link:** [View Product](https://buchmistrz.pl/product/xcor-tyrant-23000-puffs/)
+
+---
+
+## 📝 Blog Posts
+
+> 60 articles from [buchmistrz.pl/category/jednorazowy-vape/](https://buchmistrz.pl/category/jednorazowy-vape/)
+
+| # | Title | Date | Link |
+|---|-------|------|------|
+| 1 | Fizzy candy e papieros co to smak – kompletny pora... | 2026-08-13 | [Read](https://buchmistrz.pl/fizzy-candy-e-papieros-co-to-smak-kompletny-poradnik-do-wy/) |
+| 2 | Vape skladniki – co wybrać i na co zwrócić uwagę? | 2026-08-13 | [Read](https://buchmistrz.pl/vape-skladniki-co-wybrac-i-na-co-zwrocic-uwage/) |
+| 3 | Jak wybrać jak ustawic moc w aspire epapierosie? P... | 2026-08-13 | [Read](https://buchmistrz.pl/jak-wybrac-jak-ustawic-moc-w-aspire-epapierosie-poradnik-i/) |
+| 4 | Co to jest wapowanie dla pocz?tkuj?cych i który mo... | 2026-08-13 | [Read](https://buchmistrz.pl/co-to-jest-wapowanie-dla-pocztkujcych-i-ktory-model-wybrac/) |
+| 5 | E papierosy tomex – kompletny poradnik do wyboru | 2026-08-13 | [Read](https://buchmistrz.pl/e-papierosy-tomex-kompletny-poradnik-do-wyboru/) |
+| 6 | Jak wybrać vape shop jednoraz¨®wki? Poradnik i ran... | 2026-08-13 | [Read](https://buchmistrz.pl/jak-wybrac-vape-shop-jednoraz%c2%a8wki-poradnik-i-ranking-najle/) |
+| 7 | Randm tornado 15000 pl – co wybrać i na co zwrócić... | 2026-08-13 | [Read](https://buchmistrz.pl/randm-tornado-15000-pl-co-wybrac-i-na-co-zwrocic-uwage/) |
+| 8 | crystal blind 6000 puffs – opinie, parametry i naj... | 2026-08-13 | [Read](https://buchmistrz.pl/crystal-blind-6000-puffs-opinie-parametry-i-najlepsze-ofe/) |
+| 9 | Hifancy dream 45k – co wybrać i na co zwrócić uwag... | 2026-08-02 | [Read](https://buchmistrz.pl/hifancy-dream-45k-co-wybrac-i-na-co-zwrocic-uwage/) |
+| 10 | Co to jest mvrvi e papieros 6000 puffs i który mod... | 2026-08-02 | [Read](https://buchmistrz.pl/co-to-jest-mvrvi-e-papieros-6000-puffs-i-ktory-model-wybrac/) |
+| 11 | Co to jest hifancy space 50000 puffs i który model... | 2026-08-02 | [Read](https://buchmistrz.pl/co-to-jest-hifancy-space-50000-puffs-i-ktory-model-wybrac/) |
+| 12 | Merrymi sklep – co wybrać i na co zwrócić uwagę? | 2026-08-02 | [Read](https://buchmistrz.pl/merrymi-sklep-co-wybrac-i-na-co-zwrocic-uwage/) |
+| 13 | elektronik papieros 50000 buchow – opinie, paramet... | 2026-08-02 | [Read](https://buchmistrz.pl/elektronik-papieros-50000-buchow-opinie-parametry-i-najle/) |
+| 14 | Jak wybrać ur1 vape 800 puffs cena? Poradnik i ran... | 2026-08-02 | [Read](https://buchmistrz.pl/jak-wybrac-ur1-vape-800-puffs-cena-poradnik-i-ranking-najle/) |
+| 15 | 20 mg vape rownowazny jest ilu papierosom – co wyb... | 2026-08-02 | [Read](https://buchmistrz.pl/20-mg-vape-rownowazny-jest-ilu-papierosom-co-wybrac-i-na-c/) |
+| 16 | Jak wybrać ile sie ?aduje e papierosy? Poradnik i ... | 2026-08-02 | [Read](https://buchmistrz.pl/jak-wybrac-ile-sie-aduje-e-papierosy-poradnik-i-ranking-na/) |
+| 17 | Vape alegro – co wybrać i na co zwrócić uwagę? | 2026-08-02 | [Read](https://buchmistrz.pl/vape-alegro-co-wybrac-i-na-co-zwrocic-uwage/) |
+| 18 | Frimy zamiasta e- comees – co wybrać i na co zwróc... | 2026-08-02 | [Read](https://buchmistrz.pl/frimy-zamiasta-e-comees-co-wybrac-i-na-co-zwrocic-uwage/) |
+| 19 | Co to jest fizzy twins i który model wybrać? | 2026-08-02 | [Read](https://buchmistrz.pl/co-to-jest-fizzy-twins-i-ktory-model-wybrac/) |
+| 20 | Merry mi blade 30k r¨®?owe 0,28 groszt – kompletny... | 2026-08-02 | [Read](https://buchmistrz.pl/merry-mi-blade-30k-r%c2%a8owe-028-groszt-kompletny-poradnik/) |
+| 21 | Co to jest 4000 buch¨®w to ile liquidu w e papiero... | 2026-08-02 | [Read](https://buchmistrz.pl/co-to-jest-4000-buch%c2%a8w-to-ile-liquidu-w-e-papierosie-i-ktor/) |
+| 22 | Triple flavor papierosy czy mozna dolewa? liquid –... | 2026-08-02 | [Read](https://buchmistrz.pl/triple-flavor-papierosy-czy-mozna-dolewa-liquid-co-wybrac/) |
+| 23 | Jak wybrać s?absza bateria a smak epaierosa? Porad... | 2026-08-02 | [Read](https://buchmistrz.pl/jak-wybrac-sabsza-bateria-a-smak-epaierosa-poradnik-i-rank/) |
+| 24 | Hifancy – kompletny poradnik do wyboru | 2026-08-02 | [Read](https://buchmistrz.pl/hifancy-kompletny-poradnik-do-wyboru/) |
+| 25 | Jakie e papierosy kupimy w ?abce – co wybrać i na ... | 2026-08-02 | [Read](https://buchmistrz.pl/jakie-e-papierosy-kupimy-w-abce-co-wybrac-i-na-co-zwrocic/) |
+| 26 | Co to jest 18000buch¨®w i który model wybrać? | 2026-08-02 | [Read](https://buchmistrz.pl/co-to-jest-18000buch%c2%a8w-i-ktory-model-wybrac/) |
+| 27 | Jak wybrać wapowanie ile nikotyny? Poradnik i rank... | 2026-08-02 | [Read](https://buchmistrz.pl/jak-wybrac-wapowanie-ile-nikotyny-poradnik-i-ranking-najlep/) |
+| 28 | Nicliquid opnie – co wybrać i na co zwrócić uwagę? | 2026-08-02 | [Read](https://buchmistrz.pl/nicliquid-opnie-co-wybrac-i-na-co-zwrocic-uwage/) |
+| 29 | Wn?trze e-papierosz – co wybrać i na co zwrócić uw... | 2026-08-02 | [Read](https://buchmistrz.pl/wntrze-e-papierosz-co-wybrac-i-na-co-zwrocic-uwage/) |
+| 30 | Co to jest czy liquid od elektrycnz apaierosa morz... | 2026-08-02 | [Read](https://buchmistrz.pl/co-to-jest-czy-liquid-od-elektrycnz-apaierosa-morze-sie-prze/) |
+
+---
+
+*Generated on 2026-08-14*
+*Source: [buchmistrz.pl](https://buchmistrz.pl)*
