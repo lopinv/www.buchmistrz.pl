@@ -57,10 +57,10 @@
 
 <table width="100%">
 <tr><th width="40%">Produkt</th><th width="15%">Cena</th><th width="15%">Puffs</th><th width="30%" align="center">Widok</th></tr>
-<tr><td><a href="https://buchmistrz.pl/product/airmez-fox-4in1-120000-puffs/">AiRMEZ FOX 4IN1 120000 PUFFS</a></td><td><b>100,00 zł</b></td><td>120000 Puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/9.jpg" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="AiRMEZ FOX 4IN1 120000 PUFFS"></td></tr>
-<tr><td><a href="https://buchmistrz.pl/product/airmez-lux-60000-puffs/">AiRMEZ LUX 60000 PUFFS</a></td><td><b>90,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/MIXED-BERRIES.png" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="AiRMEZ LUX 60000 PUFFS"></td></tr>
-<tr><td><a href="https://buchmistrz.pl/product/airmez-matrix-pro-30000-puffs/">AiRMEZ MATRIX PRO 30000 PUFFS</a></td><td><b>70,00 zł</b></td><td>40000 Puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/85a0e357f0bcf5bd736574a36eea826d.webp" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="AiRMEZ MATRIX PRO 30000 PUFFS"></td></tr>
-<tr><td><a href="https://buchmistrz.pl/product/airmez-tornado-25000-puffs/">AiRMEZ TORNADO 25000 PUFFS</a></td><td><b>60,00 zł</b></td><td>25000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/blueberry-on-ice-.png" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="AiRMEZ TORNADO 25000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/airmez-fox-4in1-120000-puffs/">AiRMEZ FOX 4IN1 120000 PUFFS</a></td><td><b>100,00 zł</b></td><td>120000 Puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/9.jpg" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="AiRMEZ FOX 4IN1 120000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/airmez-lux-60000-puffs/">AiRMEZ LUX 60000 PUFFS</a></td><td><b>90,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/MIXED-BERRIES.png" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="AiRMEZ LUX 60000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/airmez-matrix-pro-30000-puffs/">AiRMEZ MATRIX PRO 30000 PUFFS</a></td><td><b>70,00 zł</b></td><td>40000 Puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/85a0e357f0bcf5bd736574a36eea826d.webp" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="AiRMEZ MATRIX PRO 30000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/airmez-tornado-25000-puffs/">AiRMEZ TORNADO 25000 PUFFS</a></td><td><b>60,00 zł</b></td><td>25000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/blueberry-on-ice-.png" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="AiRMEZ TORNADO 25000 PUFFS"></td></tr>
 </table>
 
 ---
@@ -69,9 +69,9 @@
 
 <table width="100%">
 <tr><th width="40%">Produkt</th><th width="15%">Cena</th><th width="15%">Puffs</th><th width="30%" align="center">Widok</th></tr>
-<tr><td><a href="https://buchmistrz.pl/product/hifancy-dream-45000-puffs/">HIFANCY DREAM 45000 PUFFS</a></td><td><b>70,00 zł</b></td><td>45000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/5d9d6b6e99481cb879b8d2a95948a489.webp" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="HIFANCY DREAM 45000 PUFFS"></td></tr>
-<tr><td><a href="https://buchmistrz.pl/product/hifancy-space-50000-puffs/">HIFANCY SPACE 50000 PUFFS</a></td><td><b>80,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/5aaefa0149d9574264498fd7c5fdf37b.jpg" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="HIFANCY SPACE 50000 PUFFS"></td></tr>
-<tr><td><a href="https://buchmistrz.pl/product/hifancy-super-70000-puffs/">HIFANCY SUPER 70000 PUFFS</a></td><td><b>100,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/hifancy-super-70k-cover.jpg" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="HIFANCY SUPER 70000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/hifancy-dream-45000-puffs/">HIFANCY DREAM 45000 PUFFS</a></td><td><b>70,00 zł</b></td><td>45000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/5d9d6b6e99481cb879b8d2a95948a489.webp" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="HIFANCY DREAM 45000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/hifancy-space-50000-puffs/">HIFANCY SPACE 50000 PUFFS</a></td><td><b>80,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/5aaefa0149d9574264498fd7c5fdf37b.jpg" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="HIFANCY SPACE 50000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/hifancy-super-70000-puffs/">HIFANCY SUPER 70000 PUFFS</a></td><td><b>100,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/hifancy-super-70k-cover.jpg" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="HIFANCY SUPER 70000 PUFFS"></td></tr>
 </table>
 
 ---
@@ -80,7 +80,7 @@
 
 <table width="100%">
 <tr><th width="40%">Produkt</th><th width="15%">Cena</th><th width="15%">Puffs</th><th width="30%" align="center">Widok</th></tr>
-<tr><td><a href="https://buchmistrz.pl/product/maskking-icex-40000-puffs/">MASKKING ICEX 40000 PUFFS</a></td><td><b>80,00 zł</b></td><td>40000 Puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/cover.jpg" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="MASKKING ICEX 40000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/maskking-icex-40000-puffs/">MASKKING ICEX 40000 PUFFS</a></td><td><b>80,00 zł</b></td><td>40000 Puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/cover.jpg" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="MASKKING ICEX 40000 PUFFS"></td></tr>
 </table>
 
 ---
@@ -89,7 +89,7 @@
 
 <table width="100%">
 <tr><th width="40%">Produkt</th><th width="15%">Cena</th><th width="15%">Puffs</th><th width="30%" align="center">Widok</th></tr>
-<tr><td><a href="https://buchmistrz.pl/product/merrymi-blade-30000-puffs/">MERRYMI BLADE 30000 PUFFS</a></td><td><b>80,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/merrymi-blade-30000-puffs-aperol-banner-1.jpg" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="MERRYMI BLADE 30000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/merrymi-blade-30000-puffs/">MERRYMI BLADE 30000 PUFFS</a></td><td><b>80,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/merrymi-blade-30000-puffs-aperol-banner-1.jpg" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="MERRYMI BLADE 30000 PUFFS"></td></tr>
 </table>
 
 ---
@@ -98,7 +98,7 @@
 
 <table width="100%">
 <tr><th width="40%">Produkt</th><th width="15%">Cena</th><th width="15%">Puffs</th><th width="30%" align="center">Widok</th></tr>
-<tr><td><a href="https://buchmistrz.pl/product/stag-bar-6in1-180000-puffs/">STAG BAR 6IN1 180000 PUFFS</a></td><td><b>150,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/stag-bar-6in1-180000-180k-puffs.jpg" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="STAG BAR 6IN1 180000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/stag-bar-6in1-180000-puffs/">STAG BAR 6IN1 180000 PUFFS</a></td><td><b>150,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/stag-bar-6in1-180000-180k-puffs.jpg" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="STAG BAR 6IN1 180000 PUFFS"></td></tr>
 </table>
 
 ---
@@ -107,9 +107,9 @@
 
 <table width="100%">
 <tr><th width="40%">Produkt</th><th width="15%">Cena</th><th width="15%">Puffs</th><th width="30%" align="center">Widok</th></tr>
-<tr><td><a href="https://buchmistrz.pl/product/xcor-hawaii-pro-23000-puffs/">XCOR Hawaii PRO 23000 PUFFS</a></td><td><b>55,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/85b21c9f1e31bb658d6c4ec5a830a8b3.webp" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="XCOR Hawaii PRO 23000 PUFFS"></td></tr>
-<tr><td><a href="https://buchmistrz.pl/product/xcor-max-50000-puffs/">XCOR Max 50000 PUFFS</a></td><td><b>90,00 zł</b></td><td>50000 Puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/Kiwi-Passion-Fruit-Guava展示盒.png" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="XCOR Max 50000 PUFFS"></td></tr>
-<tr><td><a href="https://buchmistrz.pl/product/xcor-tyrant-23000-puffs/">XCOR TYRANT 23000 PUFFS</a></td><td><b>55,00 zł</b></td><td>23000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/e39b239dcb606e82481b0129ba751abe.jpg" width="60" height="60" style="object-fit:cover;border-radius:8px" alt="XCOR TYRANT 23000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/xcor-hawaii-pro-23000-puffs/">XCOR Hawaii PRO 23000 PUFFS</a></td><td><b>55,00 zł</b></td><td>000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/85b21c9f1e31bb658d6c4ec5a830a8b3.webp" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="XCOR Hawaii PRO 23000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/xcor-max-50000-puffs/">XCOR Max 50000 PUFFS</a></td><td><b>90,00 zł</b></td><td>50000 Puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/Kiwi-Passion-Fruit-Guava展示盒.png" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="XCOR Max 50000 PUFFS"></td></tr>
+<tr><td><a href="https://buchmistrz.pl/product/xcor-tyrant-23000-puffs/">XCOR TYRANT 23000 PUFFS</a></td><td><b>55,00 zł</b></td><td>23000 puffs</td><td align="center"><img src="https://buchmistrz.pl/wp-content/uploads/e39b239dcb606e82481b0129ba751abe.jpg" width="120" height="120" style="object-fit:cover;border-radius:8px" alt="XCOR TYRANT 23000 PUFFS"></td></tr>
 </table>
 
 ---
