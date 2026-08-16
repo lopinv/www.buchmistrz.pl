@@ -1,0 +1,159 @@
+baseURL = "https://lopinx.github.io/hugo-template"
+title = 'MSDN镜像库'
+theme = 'LoveIt'
+
+# 常规设置
+# defaultContentLanguageInSubdir = false          # 在子目录中呈现默认内容语言，例如content/en/。然后站点根目录/将重定向到/en/。默认为false
+enableRobotsTXT = true                          
+enableEmoji = true
+languageCode = 'zh-cn'                          # en / zh-cn 
+defaultContentLanguage = "zh-cn"                # en / zh-cn 没有语言指示的内容将默认使用此语言。默认值为en。
+hasCJKLanguage = true                           # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
+uglyURLs = true                                 # Use the .html suffix
+canonifyURLs = true                             # 转换链接为绝对链接，<a href="/about"> → <a href="https://example.org/about/">
+# relativeURLs = true                             # 转换链接为相对链接，<a href="/about"> → <a href="../../about">
+# 忽略一些构建错误
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+# 跳过渲染 ["page", "home", "section", "taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
+disableKinds = ["RSS"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    isPlainText = true
+    notAlternative = true
+    mediaType = "application/json"
+    path = "/search/"
+
+[outputs]
+  home = [ "HTML", "JSON", "SearchIndex" ]        # 首页
+  page = [ "HTML" ]                               # 单个页面（通常是静态页面，如关于页面、联系页面等，可以理解为文章详情页和一些指定页面）
+  section = [ "HTML" ]                            # 部分（section），例如博客部分、文档部分等（可以理解为一类文章的归档的页面）。
+  taxonomy = [ "HTML" ]                           # 分类和标签的列表页面（可以理解为分类、标签的归档页，就是列出所有分类、标签的聚合页面）
+  term = [ "HTML" ]                               # 具体的分类或标签页面（分类、标签等文章列表页，列出属于某个分类、标签下文章列表的页面）
+
+[permalinks]
+  post = "posts/:slug"
+  page = ":slug"
+  tags = "tags/:slug"
+  categories = "categories/:slug"
+
+# Markdown渲染
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark]
+        [markup.goldmark.extensions]
+            definitionList = true
+            footnote = true
+            linkify = true
+            strikethrough = true
+            table = true
+            taskList = true
+            typographer = false
+        [markup.goldmark.parser]
+            attribute = true
+            autoHeadingID = true
+            autoHeadingIDType = "github"
+        [markup.goldmark.renderer]
+            hardWraps = false
+            unsafe = true
+            xHTML = false
+    [markup.highlight]
+        codeFences = true
+        guessSyntax = false
+        lineNos = false
+        lineNumbersInTable = false
+        noClasses = false
+    [markup.tableOfContents]
+        startLevel = 2
+        endLevel = 6
+        ordered = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "windows"
+    name = "Windows下载"
+    url = "/windows.html"
+    weight = 2
+  [[menu.main]]
+    identifier = "office"
+    name = "Office下载"
+    url = "/office.html"
+    weight = 3
+  [[menu.main]]
+    identifier = "soft"
+    name = "软件下载"
+    url = "/soft.html"
+    weight = 4
+  [[menu.main]]
+    identifier = "posts"
+    name = "帮助中心"
+    url = "/posts.html"
+    weight = 5
+
+# ####################### 自定义变量 ####################### # 
+# 自定义变量
+# {{ .Site.Params.xxxx.xxxx }}
+[params]
+  title = 'MSDN镜像库 - 微软官方原版Windows/Office镜像下载'
+  keywords = 'MSDN,系统库,镜像库,原版系统,原版windows,原版office,原版win11,原版win10,原版win7,原版win8,原版xp,原版server,原版lstc'
+  description = 'MSDN镜像库为你提供MSDN官方原版镜像，原版win11，win10，win8/8.1，win7，win xp，win server，office全系列官方镜像下载与安装等服务。'
+  
+  fastSearch = true                             # 是否开启本地搜索
+  PagerSize = 10                                # 分页设置
+  # summaryLength = 300                           # 摘要字数
+  # copyright = ''                                # 站点版权信息
+
+  # 作者信息 profile：简介信息
+  [params.author]
+    name = "lopins"
+    link = "https://www.lopins.cn"
+    email = "lopins@qq.com"
+    profile = ""
+
+  # 公司信息
+  # {{ .Site.Params.company.Tel }}
+  [params.company]
+    Tel = '185-1668-7118'
+    Name = '佳匠实业'
+    Description = ''
+    Slogan = ''
+    Address = '上海市松江区石湖荡镇石湖新路95号'
+    Start = '2018'
+    Icp = '沪ICP备2021004498号'
+    Kefu = 'https://affim.baidu.com/unique_44585358/chat?siteId=18630889&userId=44585358&siteToken=566b31777728579c3005d1e6318bdbae'
+    Weixin = 'https://u.wechat.com/EKP6dBfMFC_Cv38uRfdXgGQ?s=2'
+    Weibo = 'https://u.wechat.com/EKP6dBfMFC_Cv38uRfdXgGQ?s=2'
+    Douyin = 'https://u.wechat.com/EKP6dBfMFC_Cv38uRfdXgGQ?s=2'           
+
+  # 友情链接
+  # {{ range .Site.Params.friendLinks }}<a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a><span>{{ .description }}</span>{{ end }}
+  [params.friendlinks]
+    hugo = { name = "Hugo 官方文档", url = "https://gohugo.io/", description = "Hugo 的官方文档" }
+    github = { name = "GitHub", url = "https://github.com/", description = "代码托管平台" }
+    stackoverflow = { name = "Stack Overflow", url = "https://stackoverflow.com/", description = "编程问答社区" }
+    blog = { name = "个人博客", url = "https://www.lopins.cn/", description = "站长博客网站" }
+    hugo1 = { name = "Hugo 官方文档", url = "https://gohugo.io/", description = "Hugo 的官方文档" }
+    github1 = { name = "GitHub", url = "https://github.com/", description = "代码托管平台" }
+    stackoverflow1 = { name = "Stack Overflow", url = "https://stackoverflow.com/", description = "编程问答社区" }
+    blog1 = { name = "个人博客", url = "https://www.lopins.cn/", description = "站长博客网站" }
+
+  [params.build]
+    noJSConfigInAssets = true
+
+  [params.security]
+    enableInlineShortcodes = true
+
+  [params.services]
+    [params.services.googleAnalytics]
+      ID = 'G-XXXXXXXXX'
+    [params.services.googleAdsense]
+      ID = 'ca-pub-5757955455076259'
